@@ -23,7 +23,7 @@ This repository documents my progress as I build job-ready DevOps skills through
 - Week 12: Mock interviews and portfolio polish
 
 ## 📫 Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) or check out my [GitHub](https://github.com/YOUR_USERNAME).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/dahirkhalif) or check out my [GitHub](https://github.com/daraye-tech).
 
 ---
 
