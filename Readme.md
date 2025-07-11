@@ -27,7 +27,6 @@ IAM permissions to manage VPC, EC2, ALB, and S3 resources
 
 🚀 Usage
 Clone the repo
-
 git clone <repo-url>
 cd <project-directory>
 Initialize Terraform
